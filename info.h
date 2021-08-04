@@ -1,0 +1,10 @@
+#ifndef INFO_H
+#define INFO_H
+
+#define PHANTOM_VERSION_MAJOR 0
+#define PHANTOM_VERSION_MINOR 0
+#define PHANTOM_VERSION_BUILD 1
+
+
+#endif //INFO_H
+

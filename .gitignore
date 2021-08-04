@@ -1,0 +1,5 @@
+*.o
+*.gch
+
+phantom
+tests/phantom_tests
